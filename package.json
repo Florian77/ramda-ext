@@ -1,0 +1,25 @@
+{
+  "name": "ramda-ext",
+  "version": "0.0.1",
+  "description": "Function collection that uses ramda lib.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian77/ramda-ext.git"
+  },
+  "keywords": [
+    "ramda"
+  ],
+  "author": "Florian Tölle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florian77/ramda-ext/issues"
+  },
+  "homepage": "https://github.com/Florian77/ramda-ext#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
