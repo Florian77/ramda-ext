@@ -1,5 +1,5 @@
 {
-  "name": "ramda-ext",
+  "name": "ramda-ext-apply-path",
   "version": "0.0.1",
   "description": "Function collection that uses ramda lib.",
   "main": "index.js",
